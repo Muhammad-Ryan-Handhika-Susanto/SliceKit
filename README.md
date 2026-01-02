@@ -68,7 +68,7 @@ SliceKit components are grouped into categories such as:
 
 * **Frontend**: HTML, CSS, JavaScript (React planned)
 * **Backend**: Node.js, Express.js
-* **Database**: MySQL / PlanetScale
+* **Database**: PostgreSQL / PlanetScale
 * **Version Control**: Git & GitHub
 * **Deployment**: VPS / Cloud Platform
 
@@ -103,11 +103,15 @@ License information will be added later.
 
 ---
 
-## Author
+## Authors
 
 **Muhammad Ryan Handhika Susanto**
 Informatics Engineering Student
 Aspiring Web Developer & AI Enthusiast
+
+**Muhammad Zein Akbar Susanto**
+Rekayasa Perangkat Lunak Student
+Aspiring Web Developer
 
 ---
 
